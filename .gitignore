@@ -1,0 +1,8 @@
+/nerfed-separate
+/nerfed-embedded
+libeat-function-embed.c
+*.o
+*.so
+
+.*.sw?
+*~
